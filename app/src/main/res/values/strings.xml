@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculaEdad</string>
+    <string name="pregunta_fecha">¿Cuál es tu fecha de nacimiento?</string>
+    <string name="boton_calcular">Calcular</string>
+</resources>
